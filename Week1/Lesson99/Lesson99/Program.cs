@@ -58,7 +58,7 @@ namespace exercises
                     Q.Enqueue(n * 10 + i);
                 }
             }
-
+                // abcasdqweqe
             // Display the generated prime numbers
             foreach (uint p in prime_nums)
             {
