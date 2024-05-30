@@ -14,6 +14,10 @@ public class Test2 {
         String s = "30,000";
         int number = Integer.parseInt(s);
         System.out.println(s);
+
         System.out.println("why");
+
+        // abasdwqeqw
+
     }
 }
